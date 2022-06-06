@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeomCompTema9+10", "GeomCompTema9+10.csproj", "{8B146604-1994-4C43-8173-DC8C8F382CD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B146604-1994-4C43-8173-DC8C8F382CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B146604-1994-4C43-8173-DC8C8F382CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B146604-1994-4C43-8173-DC8C8F382CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B146604-1994-4C43-8173-DC8C8F382CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76AE12B3-5916-480F-A66A-EF4AD862E5D7}
+	EndGlobalSection
+EndGlobal
